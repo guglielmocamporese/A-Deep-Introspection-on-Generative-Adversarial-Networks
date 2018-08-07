@@ -18,3 +18,7 @@ GANs, namely Generative Adversarial Networks, are a hot topic nowadays. These mo
 
 ### Results on 2D Distributions
 ![pdf_2d_fit](https://user-images.githubusercontent.com/31989563/43742691-3ddb00f8-99d3-11e8-9dbc-3e15d8bcc34b.png)
+
+### Losses of 2D Distributions
+![losses_2d-eps-converted-to](https://user-images.githubusercontent.com/31989563/43769753-c9dcbefe-9a3a-11e8-8d71-b5f6de24e5e9.jpg)
+
